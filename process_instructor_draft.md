@@ -13,6 +13,8 @@ Table of contents:
 -Landing an embedded focused internship
 -References
 
+![Figure 1: Embedded Systems Engineer Pipeline](Figure 1 Embedded Systems Engineering Pipeline.png)
+
 Purpose
 
 You already know the BS in electrical engineering curriculum at UW Bothell covers circuits, digital logic, and signals, and you know that passing those courses is not enough to land an embedded systems engineer role after graduation. What do you do outside the classroom is what separates the graduates who get hired from the ones who keep applying. This guide covers the best practices that will build their skills, projects, and connections embedded systems employers look for. Figure one shows the full pipeline from freshman year to year first embedded role, with each best practice mapped out to point where it feeds. Use the figure as a road map, then read each section for details.
