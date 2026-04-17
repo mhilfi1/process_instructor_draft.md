@@ -13,7 +13,7 @@ Table of contents:
 -Landing an embedded focused internship
 -References
 
-![Figure 1: Embedded Systems Engineer Pipeline](Figure 1 Embedded Systems Engineering Pipeline.png)
+Figure 1: https://kommodo.ai/i/KiKIwRlHMfnK0dBM0fmq 
 
 Purpose
 
